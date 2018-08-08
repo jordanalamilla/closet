@@ -1,6 +1,8 @@
         <footer>
+
+        &copy; Designed and developed by Jordan Alamilla | 2018
             
-            <?php $stores = get_footer_stores( $db ); ?>
+            <!-- <?php// $stores = get_footer_stores( $db ); ?>
             
             <section id="footer-content">
             
@@ -22,9 +24,9 @@
                     
                         <?php
                         
-                        foreach( $stores as $store ) {
-                            echo "<li><a href='store.php?id={$store[ 'store_id' ]}'>{$store[ 'store_name' ]}</a></li>";
-                        }
+                        //foreach( $stores as $store ) {
+                        //   echo "<li><a href='store.php?id={$store[ 'store_id' ]}'>{$store[ 'store_name' ]}</a></li>";
+                        //}
                         
                         ?>
                     
@@ -38,7 +40,7 @@
                 
                 </div>
             
-            </section>
+            </section> -->
             
             <?php
 //            echo '<pre>';

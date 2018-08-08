@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Page Title - Site Title</title>
+    <title>CLOSET!</title>
     <link rel="stylesheet" href="css/style.css" type="text/css">
     
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"
